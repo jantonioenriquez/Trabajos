@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrototypeArquero</string>
+    <string name="nombre">nombre</string>
+    <string name="ataque">ataque</string>
+    <string name="defensa">defensa</string>
+    <string name="clonar">clonar</string>
+    <string name="arquero">arquero</string>
+</resources>

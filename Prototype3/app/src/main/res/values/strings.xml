@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="reloj">reloj</string>
+    <string name="marca">marca</string>
+    <string name="color">color</string>
+    <string name="clonar">clonar</string>
+</resources>
